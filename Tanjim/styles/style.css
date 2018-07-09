@@ -1,0 +1,52 @@
+h1{
+	color:blue;
+	font-family:arial;
+	font-size:50px;
+	text-align:center;
+	text-shadow:6px 4px 2px black;
+}
+img{
+	display:block;
+	margin:right;
+}
+h2{
+	color:		Blue;
+	font-family:arial;
+	font-size:15px;
+	text-align:left;
+}
+h3{
+	color:	green;
+	font-family:arial;
+	font-size:25px;
+	text-align:left;
+}
+li{
+	color:	blue;
+	font-family:arial;
+	font-size:15px;
+}
+h4{
+	color:	white;
+	font-family:Kavivanar;
+	font-size:25px;
+	text-align:left;
+}
+p{
+	color:		red;
+	font-size:15px;
+	line-height:2;
+	letter-spacing:1px;
+}
+#id1{
+	color:	black;
+}
+#id2{
+	color:	green;
+}
+#id3{
+	color:	White;
+}
+html{
+	background-color:	Black;
+}
